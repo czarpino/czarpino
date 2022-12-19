@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Czar's GitHub stats!](https://github-readme-stats.vercel.app/api?username=czarpino&show_icons=true)
+
+----
+
+![Czar's Tech Stack](https://skillicons.dev/icons?i=php,symfony,js,nodejs,mysql,mongodb,redis,nginx,docker,bash,git,github,jenkins,aws,idea)
+
 <!--
 **czarpino/czarpino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
