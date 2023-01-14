@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Czar's GitHub stats!](https://github-readme-stats.vercel.app/api?username=czarpino&show_icons=true)
+![Czar's GitHub stats](https://github-readme-stats.vercel.app/api?username=czarpino&show_icons=true)
 
 ----
 
